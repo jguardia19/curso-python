@@ -15,4 +15,15 @@ el resultado de la division es {div}.
 Fin.
 """
 
-print(mensaje)
+#print(mensaje)
+
+cuadros = list(map(lambda x: x**2 ,range(1,50)))
+print(cuadros)
+
+try:
+    if numero1 > numero2:
+        print("El numero 1 es mayor")
+    else:
+        print("El numero 2 es mayor")   
+except Exception as e:
+    print("Ingrese un valor que corresponda")
