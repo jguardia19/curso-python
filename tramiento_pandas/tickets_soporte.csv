@@ -1,0 +1,4 @@
+id,fecha,canal,nombre,email,telefono,idioma,categoria,producto,asunto,texto,prioridad,estado
+1,2025-01-01,email,Carlos,carlos1@gmail.com,+52 55 1234 5678,es,soporte,laptop,Incidencia,"Hola, soy Carlos. Tengo un problema con la laptop: no enciende. Mi correo es carlos1@gmail.com y mi telefono es +52 55 1234 5678.",alta,abierto
+2,2025-01-02,chat,Ana,ana22@empresa.com,(55) 2222-3333,es,producto,router,Consulta,Quiero informacion sobre router: compatibilidad con software. Mi correo ana22@empresa.com y tel (55) 2222-3333.,media,en_proceso
+3,2025-01-03,telefono,Luis,luis7@yahoo.com,5512345678,en,marketing,tablet,Info producto,Subscribe to our newsletter!!! ### %%,baja,resuelto
